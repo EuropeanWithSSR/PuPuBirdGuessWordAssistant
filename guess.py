@@ -131,7 +131,8 @@ class GuessGameGUI(tk.Tk):
             "THUOCL_diming.txt": "地名词库",
             "THUOCL_chengyu.txt": "成语词库",
             "THUOCL_it.txt": "IT词库",
-            "THUOCL_caijing.txt": "财经词库"
+            "THUOCL_caijing.txt": "财经词库",
+            "wiki.txt": "维基百科"
         }
         self.create_widgets()
 
