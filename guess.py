@@ -13,7 +13,7 @@ def get_pronunciations(ch):
     results = []
     # 声母列表，注意多音节声母优先匹配
     initials_list = ['zh', 'ch', 'sh', 'b', 'p', 'm', 'f', 'd', 't', 'n', 'l',
-                     'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's']
+                     'g', 'k', 'h', 'j', 'q', 'x', 'r', 'z', 'c', 's','y','w']
     for py in set(py_list):
         if not py:
             continue
