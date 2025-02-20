@@ -134,7 +134,8 @@ class GuessGameGUI(tk.Tk):
             "THUOCL_caijing.txt": "财经词库",
             "wiki.txt": "维基百科",
             "数学词汇大全【官方推荐】.txt": "数学词库",
-            "moegirl.txt":"萌娘百科"
+            "moegirl.txt": "萌娘百科",
+            "宝可梦.txt": "宝可梦"
         }
         self.create_widgets()
 
